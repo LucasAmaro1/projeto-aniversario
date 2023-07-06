@@ -22,17 +22,18 @@ body {
 .navegacao {
     background-color: var(--cor-principal);
     padding: 15px;
-    margin-bottom: 3em;
+    margin-bottom: 5%;
 }
 
 .navegacao__botoes {
-    margin-left: 10em;
+    margin-left: 17%;
 }
 
 .botoes {
     text-decoration: none;
     color: white;
     padding: 10px;
+    
 }
 
 .img {
